@@ -1,4 +1,4 @@
-# titles
+# Edit the file to change the first line from "# titles" to "# Titles"
 
 - A River Runs Through It
 - Fight Club
